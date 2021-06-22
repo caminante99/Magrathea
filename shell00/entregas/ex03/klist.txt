@@ -1,0 +1,28 @@
+Credentials cache: API:1B37966A-1BBD-4985-B14B-BAF105EAD059
+        Principal: ddiaz-fe@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 21 17:06:22 2021  Jun 22 03:06:16 2021  krbtgt/42MADRID.COM@42MADRID.COM
+
+
+Credentials cache: API:9E29265C-24C4-4735-B062-204EF581A597
+        Principal: ddiaz-fe@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 21 16:17:27 2021  Jun 22 02:17:27 2021  krbtgt/42MADRID.COM@42MADRID.COM
+
+
+Credentials cache: API:403E8D56-8AE0-4629-9CCB-2A475CE21B37
+        Principal: ddiaz-fe@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 21 16:09:15 2021  Jun 22 02:09:15 2021  krbtgt/42MADRID.COM@42MADRID.COM
+
+
+Credentials cache: API:5689
+        Principal: ddiaz-fe@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 21 14:43:39 2021  Jun 22 00:43:39 2021  krbtgt/42MADRID.COM@42MADRID.COM
+
+
